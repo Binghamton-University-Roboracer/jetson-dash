@@ -1,0 +1,19 @@
+{
+  "name": "jetson-dash",
+  "version": "1.0.0",
+  "description": "Repository used to store code for development of personal web app used to monitor jetson orin nano diagnostics and data while attached to the f110th car.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c3hodgins/jetson-dash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c3hodgins/jetson-dash/issues"
+  },
+  "homepage": "https://github.com/c3hodgins/jetson-dash#readme"
+}
